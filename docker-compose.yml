@@ -1,8 +1,8 @@
 version: '3.5'
 
 services:
-    customer_analysis:
-        container_name: customer_analysis
+    customer_churn_analysis:
+        container_name: customer_churn_analysis
         build:
             context: .
             dockerfile: Dockerfile
