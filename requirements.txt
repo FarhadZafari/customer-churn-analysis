@@ -1,4 +1,3 @@
-alpha_vantage
 pandas>=0.24
 numpy>=1.15
 sklearn
@@ -8,12 +7,9 @@ matplotlib
 requests>=2.21
 multitasking>=0.0.7
 lxml>=4.5.1
-streamlit==0.86.0
 gwosc==0.5.8
 gwpy==2.0.4
 matplotlib==3.3.4
-numpy==1.19.5
-astropy==4.1
 plotly
 pandas_datareader
 xgboost
